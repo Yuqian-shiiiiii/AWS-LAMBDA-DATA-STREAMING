@@ -63,7 +63,7 @@ def lambda_handler(event, context):
 
 
 ## DataSnalyzer
-- ```ruby query.sql```
+- ```query.sql```
 
 ```
 SELECT t.name,
